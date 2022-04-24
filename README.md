@@ -1,5 +1,7 @@
 ### go-binance
 
+Fork of https://github.com/adshao/go-binance
+
 A Golang SDK for [binance](https://www.binance.com) API.
 
 [![Build Status](https://travis-ci.org/adshao/go-binance.svg?branch=master)](https://travis-ci.org/adshao/go-binance)
